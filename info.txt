@@ -1,0 +1,34 @@
+21=Processing
+22=under review
+23=father
+24=mother
+25=celebrate
+26=Help
+27=what
+28=King
+29=want
+30=queen
+31=Cow
+32=Goat
+33=like
+34=bored
+35=angry
+36=hold on
+37=understand
+38=zoom in
+39=zoom out
+40=sign
+41=hats off
+42=Cookies
+43=Bathroom
+44=drink
+45=you
+46=eat
+47=watching you
+48=morning
+49=afternoon
+50=Priority
+
+Not seen results:
+5,13 not working
+45 not working
